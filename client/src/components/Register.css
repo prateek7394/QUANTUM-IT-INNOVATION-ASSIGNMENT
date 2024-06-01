@@ -1,0 +1,46 @@
+
+.custom-bg{
+  justify-content: center;
+  background:linear-gradient(to top,  #00b6b4,#024b54) ;
+  width: 500px;
+  margin-top: 25px;
+}
+.sign-in{
+  background:#00F4E0;
+  
+}
+.sign{
+  color: #01817f;
+  font-weight: 400;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.but{
+  background:#00F4E0;
+  border: none;
+  font-size: 15px;
+  /* padding-top: 10px; */
+  /* padding-bottom: 10px; */
+  color: #01817f;
+  font-weight: 400;
+
+}
+.link{
+  color:#00F4E0;
+  text-decoration: none;
+  font-weight: 100;
+  font-size: 12px;
+}
+.bg-custom{
+  background: #1E2C4E;
+}
+.icon{
+  size: 100px;
+}
+.text{
+  color:#00F4E0;
+  text-decoration: none;
+  font-weight: 100;
+  font-size: 18px;
+}
